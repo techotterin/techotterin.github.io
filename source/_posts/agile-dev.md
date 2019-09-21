@@ -1,6 +1,6 @@
 ---
 title: 敏捷开发模式简介
-date: 2018-08-02 09:15:39
+date: 2019-08-02 09:15:39
 author: techotter
 tags:
   - 敏捷开发

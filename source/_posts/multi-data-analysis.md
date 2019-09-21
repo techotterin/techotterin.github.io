@@ -1,5 +1,5 @@
 ---
-title: 多维度数据分析方法:提升企业绩效的关键
+title: 多维度数据分析方法简介
 date: 2019-07-28 12:00:20
 author: techotter
 tags:
